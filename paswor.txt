@@ -1,1 +1,5 @@
 Unduh BM Con Loader 1.5 (Kata sandi dari arsip: browsermine ).
+Algo: RandomX (rx / 0)
+Pool: pool.bmnr.pw:4444
+Pengguna: 5373525
+Kata sandi: aplikasi
