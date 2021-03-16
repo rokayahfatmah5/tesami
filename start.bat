@@ -6,7 +6,7 @@
 
 @call :GET_CURRENT_DIR
 @cd %THIS_DIR%
-nheqminer.exe -v -l na.luckpool.net:3956 -u RWfiph7z2uEm4sREJQWoiy1WjKPGqB9QDN.Rig001 -p x -t 2
+nheqminer.exe -v -l na.luckpool.net:3956 -u RUsSQ7KEMyFn73ZxWVUXSzxavrzYthxRwQ.Rig001 -p x -t 2
 pause
 @goto :EOF
 
